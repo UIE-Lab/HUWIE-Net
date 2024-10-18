@@ -1,2 +1,2 @@
-# HU-Net
-HU-Net
+# HUWIE-Net
+HUWIE-Net
