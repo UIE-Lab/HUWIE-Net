@@ -1,4 +1,3 @@
-# Joint Optimization in Underwater Image Enhancement: A Training Framework Integrating Pixel-Level and Physical-Channel Techniques
 # HUWIE-Net
 
 This is an open source underwater image enhancement toolbox based on PyTorch.
