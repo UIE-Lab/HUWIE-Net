@@ -21,6 +21,11 @@ The directory structure is:
  │   │   ├── gt
  ...
 
+ _Data
+ _____dads
+ _____dads
+ 
+
 # Testing
 
 python test.py
