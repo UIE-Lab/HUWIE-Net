@@ -8,7 +8,7 @@ Top row: real-world underwater images , bottom row: the corresponding enhanced i
 
 # Dataset
 
-[...](https://li-chongyi.github.io/proj_benchmark.html)
+[UIEB Dataset Link](https://li-chongyi.github.io/proj_benchmark.html)
 
 The directory structure is:
 
