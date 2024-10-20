@@ -8,9 +8,9 @@ import torch
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 import torchvision
-from core.Models import HUWIE_Net, HUWIE_Net_I2IM, HUWIE_Net_PIM
-from core.Datasets import UIEBD
-from core.Metrics import SSIMMetric, PSNRMetric, MSEMetric
+from core.models import HUWIE_Net, HUWIE_Net_I2IM, HUWIE_Net_PIM
+from core.datasets import UIEBD
+from core.metrics import SSIMMetric, PSNRMetric, MSEMetric
 
 def main():
     
@@ -145,7 +145,6 @@ if __name__ == '__main__':
     main()
 
     
-
 
 
 
