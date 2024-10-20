@@ -1,4 +1,4 @@
-# HUWIE-Net
+# HUWIE-Net (Hybrid Underwater Image Enhancement Network)
 
 This is an open source underwater image enhancement toolbox based on PyTorch.
 If you use our code, please consider citing our paper.
