@@ -1,6 +1,6 @@
 # HUWIE-Net (Hybrid Underwater Image Enhancement Network)
 
-This is an open source underwater image enhancement method based on PyTorch.
+This is an open-source underwater image enhancement method based on PyTorch.
 If you use our code, please consider citing our paper.
 
 ![](./im.png)
@@ -9,23 +9,7 @@ Top row: real-world underwater images , bottom row: the corresponding enhanced i
 # Dataset
 
 [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
-
-The directory structure is:
-
-    .
-    ├── ...
-    ├── DATA
-    │   ├── Train
-    │   │   ├── train
-    │   │   ├── gt
-    │   │   └── train.txt
-    │   ├── Test
-    │   │   ├── test
-    │   │   ├── gt(if need)
-    │   │   └── test.txt
-    └── ...
  
-
 # Testing
 
 python test.py
@@ -34,7 +18,7 @@ python test.py
 
 python train.py
 
-# Contact Us
+# Contact
 
 If you have any questions, please contact us (ozandemir22651@gmail.com).
 
