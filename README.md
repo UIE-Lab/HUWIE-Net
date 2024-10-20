@@ -17,7 +17,7 @@ python test.py
 
 python train.py
 
-# Citation:
+# Citation
 
 Evaluating...
 
