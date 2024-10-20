@@ -1,7 +1,6 @@
 # HUWIE-Net (Hybrid Underwater Image Enhancement Network)
 
-This is an open-source underwater image enhancement method based on PyTorch.
-If you use our code, please consider citing our paper.
+This is an open-source underwater image enhancement method developed using PyTorch. If you use our code, please consider citing our paper.
 
 ![](./im.png)
 Top row: real-world underwater images , bottom row: the corresponding enhanced images by HUWIE-Net.
@@ -18,10 +17,11 @@ python test.py
 
 python train.py
 
-# Contact
-
-If you have any questions, please contact us (ozandemir22651@gmail.com).
-
-For citation:
+# Citation:
 
 Evaluating...
+
+# Contact
+
+If you have any questions, please feel free to contact us at ozandemir22651@gmail.com.
+
