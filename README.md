@@ -10,22 +10,18 @@ Top row: real-world underwater images , bottom row: the corresponding enhanced i
 
 The directory structure is:
 
- ...
- ├── DATA
- │   ├── Train
- │   │   ├── train
- │   │   ├── gt
- │   │   └── train.txt
- │   ├── Test
- │   │   ├── test
- │   │   ├── gt
- ...
-
- _Data
- 
- _____dads
- 
- _____dads
+    .
+    ├── ...
+    ├── DATA
+    │   ├── Train
+    │   │   ├── train
+    │   │   ├── gt
+    │   │   └── train.txt
+    │   ├── Test
+    │   │   ├── test
+    │   │   ├── gt(if need)
+    │   │   └── test.txt
+    └── ...
  
 
 # Testing
