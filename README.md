@@ -25,6 +25,8 @@ The working directory structure is organized as follows:
     │   ├── HUWIE-Net
     │   │   ├── core
     │   │   ├── pre_trained_models
+    │   │   │   ├── HUWIE_Net_epoch50.pth
+    │   │   │   ├── ...
     │   │   ├── test.py
     │   │   └── train.py
 
