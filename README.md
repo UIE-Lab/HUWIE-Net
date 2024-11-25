@@ -33,21 +33,25 @@ The working directory structure is organized as follows:
 # Requirements
 The packages used are listed below. All dependencies are provided in the requirements.txt file.  
 
-python==3.12.7  
-spyder==5.5.1  
-pytorch==2.3.1  
-tensorboard==2.17.0  
-opencv==4.10.0  
-pillow==11.0.0  
-torchvision==0.18.1  
+- python==3.12.7  
+- spyder==5.5.1  
+- pytorch==2.3.1  
+- tensorboard==2.17.0  
+- opencv==4.10.0  
+- pillow==11.0.0  
+- torchvision==0.18.1  
 
-# Testing
+# Testing and Training
 
-python test.py
+The steps for testing and training are provided below:
 
-# Training
-
-python train.py
+- Download the HUWIE-Net repository.  
+- Create a working directory to store all required files.  
+- Download the dataset and move it to the appropriate directory within the working directory.  
+- Install all necessary packages using the requirements.txt file.  
+- Place the UIEBD_random_shuffle_3.txt file in the specified directory.  
+- Execute the test.py script to validate the functionality of HUWIE-Net.  
+- Execute the train.py script to train HUWIE-Net.  
 
 # Citation
 
