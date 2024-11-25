@@ -11,7 +11,20 @@ The dataset used in this project is the [UIEB Dataset](https://li-chongyi.github
 # Working Directory
 The working directory structure is organized as follows:
 
-...
+    ...
+    ├── Data
+    │   ├── checkpoints
+    │   ├── UIEBD
+    │   │   ├── gt
+    │   │   ├── raw
+    │   │   └── UIEBD_random_shuffle_3.txt
+    ├── Experiments
+    │   ├── HUWIE-Net
+    │   │   ├── core
+    │   │   ├── pre_trained_models
+    │   │   ├── test.py
+    │   │   └── train.py
+    ...
 
 # Requirements
 The packages used are listed below. All dependencies are provided in the requirements.txt file.  
