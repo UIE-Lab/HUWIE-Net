@@ -11,18 +11,7 @@ The dataset used in this project is the [UIEB Dataset](https://li-chongyi.github
 # Working Directory
 The working directory structure is organized as follows:
 
-    .
-    ├── ...
-    ├── DATA
-    │   ├── Train
-    │   │   ├── train
-    │   │   ├── gt
-    │   │   └── train.txt
-    │   ├── Test
-    │   │   ├── test
-    │   │   ├── gt(if need)
-    │   │   └── test.txt
-    └── ...
+...
 
 
 # Testing
