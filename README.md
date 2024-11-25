@@ -15,7 +15,7 @@ The working directory structure is organized as follows:
 
 # Requirements
 
-python==3.12.7 
+python==3.12.7  
 spyder==5.5.1
 
 # Testing
