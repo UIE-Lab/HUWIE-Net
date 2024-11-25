@@ -50,7 +50,7 @@ The steps for testing and training are provided below:
 - Download the dataset and move it to the appropriate directory within the working directory.  
 - Install all necessary packages using the requirements.txt file.  
 - Place the UIEBD_random_shuffle_3.txt file in the specified directory.  
-- Execute the test.py script to validate the functionality of the pre-trained HUWIE-Net.  
+- Execute the test.py script to test the functionality of the pre-trained HUWIE-Net.  
 - Execute the train.py script to train HUWIE-Net.  
 
 # Citation
