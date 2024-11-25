@@ -8,7 +8,21 @@ Top row: real-world underwater images , bottom row: the corresponding enhanced i
 # Dataset
 
 [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
- 
+
+# Working Directory
+
+├── ...
+├── DATA
+│   ├── Train
+│   │   ├── train
+│   │   ├── gt
+│   │   └── train.txt
+│   ├── Test
+│   │   ├── test
+│   │   ├── gt(if need)
+│   │   └── test.txt
+└── ...
+    
 # Testing
 
 python test.py
