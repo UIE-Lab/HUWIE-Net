@@ -6,23 +6,25 @@ This is an open-source underwater image enhancement method developed using PyTor
 Top row: real-world underwater images , bottom row: the corresponding enhanced images by HUWIE-Net.
 
 # Dataset
-
-[UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
+The dataset used in this project is the [UIEB Dataset](https://li-chongyi.github.io/proj_benchmark.html)
 
 # Working Directory
+The working directory structure is organized as follows:
 
-├── ...
-├── DATA
-│   ├── Train
-│   │   ├── train
-│   │   ├── gt
-│   │   └── train.txt
-│   ├── Test
-│   │   ├── test
-│   │   ├── gt(if need)
-│   │   └── test.txt
-└── ...
-    
+    .
+    ├── ...
+    ├── DATA
+    │   ├── Train
+    │   │   ├── train
+    │   │   ├── gt
+    │   │   └── train.txt
+    │   ├── Test
+    │   │   ├── test
+    │   │   ├── gt(if need)
+    │   │   └── test.txt
+    └── ...
+
+
 # Testing
 
 python test.py
