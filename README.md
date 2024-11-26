@@ -55,7 +55,7 @@ The steps for testing and training are provided below:
 
 # Citation
 
-Evaluating...
+Manuscript under evaluation.
 
 # Contact
 
