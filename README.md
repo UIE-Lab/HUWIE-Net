@@ -34,7 +34,6 @@ The working directory structure is organized as follows:
 The packages used are listed below. All dependencies are provided in the requirements.txt file.  
 
 - python==3.12.7  
-- spyder==5.5.1  
 - pytorch==2.3.1  
 - tensorboard==2.17.0  
 - opencv==4.10.0  
