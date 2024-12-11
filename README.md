@@ -52,6 +52,16 @@ The steps for testing and training are provided below:
 - Execute the test.py script to evaluate the functionality of the pre-trained HUWIE-Net.  
 - Execute the train.py script to train HUWIE-Net.  
 
+Run test.ipynb to test HUWIE-Net in the Colab environment. The cells sequentially perform the following steps:
+
+- Cloning the HUWIE-Net Repository
+- Downloading and Extracting the Dataset
+- Importing Modules
+- Configuration and Setup
+- Testing and Evaluation
+
+Run train.ipynb to train HUWIE-Net in the Colab environment.
+
 # Citation
 
 Manuscript under evaluation.
