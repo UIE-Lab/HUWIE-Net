@@ -73,5 +73,5 @@ If you have any questions, please feel free to contact us at ozandemir22651@gmai
 # Usefull Code
 
 [UWCNN](https://li-chongyi.github.io/proj_underwater_image_synthesis.html)  
-[UIEC^2 Net](https://github.com/BIGWangYuDong/UWEnhancement)
+[UIEC^2-Net](https://github.com/BIGWangYuDong/UWEnhancement)
 
