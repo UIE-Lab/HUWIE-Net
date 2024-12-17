@@ -72,6 +72,6 @@ If you have any questions, please feel free to contact us at ozandemir22651@gmai
 
 # Usefull Code
 
-[1](https://li-chongyi.github.io/proj_underwater_image_synthesis.html))
+[1](https://li-chongyi.github.io/proj_underwater_image_synthesis.html) 
 [2](https://github.com/BIGWangYuDong/UWEnhancement)
 
