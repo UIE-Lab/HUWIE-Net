@@ -1,6 +1,7 @@
 # HUWIE-Net (Hybrid Underwater Image Enhancement Network)
 
-This is an open-source underwater image enhancement method developed using PyTorch. If you use our code, please consider citing our paper.
+This is an open-source underwater image enhancement method developed using PyTorch.
+If you use our code, please consider citing our paper.
 
 ![](./im.png)
 Top row: real-world underwater images , bottom row: the corresponding enhanced images by HUWIE-Net.
@@ -63,8 +64,18 @@ Run test.ipynb to test HUWIE-Net in the Colab environment. The cells sequentiall
 Run train.ipynb to train HUWIE-Net in the Colab environment.
 
 # Citation
+If you use our code, please consider citing our paper.
 
-Manuscript under evaluation.
+@ARTICLE{10857292,
+  author={Demir, Ozan and Aktas, Metin and Eksioglu, Ender M.},
+  journal={IEEE Access}, 
+  title={Joint Optimization in Underwater Image Enhancement: A Training Framework Integrating Pixel-Level and Physical-Channel Techniques}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Image enhancement;Image color analysis;Optimization;Scattering;Cameras;Computational modeling;Frequency modulation;Feature extraction;Convolution;Absorption;Underwater image enhancement;deep learning;underwater image formation model;dark channel prior;physics-informed deep network;joint optimization},
+  doi={10.1109/ACCESS.2025.3536173}}
 
 # Contact
 
