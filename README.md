@@ -66,6 +66,7 @@ Run train.ipynb to train HUWIE-Net in the Colab environment.
 # Citation
 If you use our code, please consider citing our paper.
 
+```
 @ARTICLE{10857292,
   author={Demir, Ozan and Aktas, Metin and Eksioglu, Ender M.},
   journal={IEEE Access}, 
@@ -76,6 +77,7 @@ If you use our code, please consider citing our paper.
   pages={1-1},
   keywords={Image enhancement;Image color analysis;Optimization;Scattering;Cameras;Computational modeling;Frequency modulation;Feature extraction;Convolution;Absorption;Underwater image enhancement;deep learning;underwater image formation model;dark channel prior;physics-informed deep network;joint optimization},
   doi={10.1109/ACCESS.2025.3536173}}
+```
 
 # Contact
 
